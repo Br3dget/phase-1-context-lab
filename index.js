@@ -11,7 +11,7 @@ function createEmployeeRecord(array) {
       createTimeOutEvent: createTimeOutEvent,
       hoursWorkedOnDate: hoursWorkedOnDate,
       wagesEarnedOnDate: wagesEarnedOnDate,
-      allWagesFor: allWagesFor // Function added here
+      allWagesFor: allWagesFor 
     };
   }
   
